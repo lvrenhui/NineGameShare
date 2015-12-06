@@ -1,4 +1,4 @@
-package EightCh;
+package EightCh.test1;
 
 /**
  * Created by lvrh on 15/12/6.
